@@ -1,0 +1,18 @@
+You made it!
+
+Good job. You learned how to:
+
+cd- into directories
+ls- list files
+cat- read files
+
+Some other commands you may need to know are:
+rm- removes file
+mv- moves a file
+cp- copies a file
+mkdir- makes a folder
+pwd- print working directory
+
+
+
+Practice the commands with the various folders which I have provided in the parent folder.  Run "cd .." to go to the parent directory.
